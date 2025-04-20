@@ -1,0 +1,3 @@
+This dashboard provides a clear overview of regional performance trends across three fiscal years. The South region consistently leads in revenue, suggesting strong market penetration or team efficiency. Category-wise, revenue is fairly balanced, but Apparel and Toys show slightly stronger results, hinting at potential for expanded offerings or marketing.
+
+Using the time-series line chart, we can identify seasonal dips or peaks—helpful for demand planning and promotional timing. The filters enable business leaders to focus on specific product lines or markets, supporting data-driven decisions on where to invest more heavily or where performance improvement is needed.

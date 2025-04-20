@@ -1,0 +1,3 @@
+The k-means algorithm segmented the regional sales data into three distinct clusters based on quantity sold and revenue.
+One cluster shows high revenue and high quantity — indicating high-performing regions suitable for premium promotions and 
+loyalty initiatives. A second cluster demonstrates lower revenue but moderate quantity, suggesting bulk sales of low-value items — these regions could benefit from bundling or upselling. The third cluster shows both low revenue and quantity, representing underperforming areas — making them ideal targets for re-engagement campaigns or local market analysis. These insights provide a strong foundation for strategic, region-specific marketing decisions.

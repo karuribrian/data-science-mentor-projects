@@ -1,0 +1,5 @@
+The Sales Performance Dashboard provides a comprehensive view of product sales trends across regions from 2022 to 2024. The bar chart reveals that Product C consistently leads in quantity sold, indicating strong customer preference. The region slicer enables users to explore regional performance, where the South and West regions show higher overall sales. The KPI card displays total revenue, giving a quick financial overview.
+
+The Revenue Growth % KPI, calculated using a DAX measure, highlights a positive year-over-year growth from 2023 to 2024, suggesting improved pricing strategies or increased demand. The pie chart illustrates revenue contribution by product, showing that Product C also dominates in revenue share.
+
+A line and stacked column chart shows trends in revenue and quantity over time — revealing peak sales in Q4 each year, likely due to seasonal demand. These insights guide data-driven decisions on inventory, marketing, and regional focus.

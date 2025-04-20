@@ -1,0 +1,1001 @@
+Date,Region,Product,Category,Revenue,YearMonth
+2022-01-01,West,Smartphone,Electronics,4367.76,2022-01
+2022-01-01,East,Jacket,Apparel,7493.09,2022-01
+2022-01-02,South,Puzzle,Toys,541.18,2022-01
+2022-01-02,South,Smartphone,Electronics,3988.66,2022-01
+2022-01-04,East,Blender,Home Goods,6078.12,2022-01
+2022-01-04,South,Smartphone,Electronics,8540.59,2022-01
+2022-01-05,South,Blender,Home Goods,9995.48,2022-01
+2022-01-05,West,Jeans,Apparel,4346.95,2022-01
+2022-01-06,East,Tablet,Electronics,6093.58,2022-01
+2022-01-07,East,Jacket,Apparel,5669.3,2022-01
+2022-01-08,East,Board Game,Toys,7551.12,2022-01
+2022-01-09,East,Toaster,Home Goods,7835.35,2022-01
+2022-01-10,East,Toaster,Home Goods,2856.73,2022-01
+2022-01-10,East,Jeans,Apparel,9161.05,2022-01
+2022-01-11,West,Puzzle,Toys,9405.32,2022-01
+2022-01-12,North,Tablet,Electronics,3233.84,2022-01
+2022-01-13,South,Smartphone,Electronics,7790.23,2022-01
+2022-01-14,East,Microwave,Home Goods,4216.4,2022-01
+2022-01-15,South,Shirt,Apparel,8697.27,2022-01
+2022-01-15,East,Jacket,Apparel,7276.08,2022-01
+2022-01-17,West,Laptop,Electronics,1566.96,2022-01
+2022-01-18,West,Action Figure,Toys,2275.1,2022-01
+2022-01-18,West,Puzzle,Toys,2627.56,2022-01
+2022-01-20,North,Laptop,Electronics,3979.06,2022-01
+2022-01-21,South,Laptop,Electronics,6380.8,2022-01
+2022-01-22,South,Jacket,Apparel,8767.56,2022-01
+2022-01-23,West,Puzzle,Toys,3688.07,2022-01
+2022-01-23,East,Laptop,Electronics,7843.5,2022-01
+2022-01-25,West,Laptop,Electronics,6123.25,2022-01
+2022-01-25,West,Toaster,Home Goods,2240.65,2022-01
+2022-01-27,South,Smartphone,Electronics,3924.6,2022-01
+2022-01-28,South,Laptop,Electronics,5182.35,2022-01
+2022-01-28,South,Action Figure,Toys,4105.23,2022-01
+2022-01-29,North,Jacket,Apparel,3774.58,2022-01
+2022-01-29,West,Action Figure,Toys,2570.29,2022-01
+2022-02-01,West,Jeans,Apparel,1743.62,2022-02
+2022-02-03,North,Microwave,Home Goods,4488.73,2022-02
+2022-02-03,South,Tablet,Electronics,3854.34,2022-02
+2022-02-04,East,Blender,Home Goods,4007.87,2022-02
+2022-02-04,South,Jacket,Apparel,801.83,2022-02
+2022-02-05,North,Action Figure,Toys,2971.29,2022-02
+2022-02-06,North,Puzzle,Toys,9822.29,2022-02
+2022-02-07,West,Toaster,Home Goods,4499.22,2022-02
+2022-02-08,East,Jeans,Apparel,3798.19,2022-02
+2022-02-10,West,Toaster,Home Goods,3894.51,2022-02
+2022-02-10,North,Toaster,Home Goods,3887.55,2022-02
+2022-02-10,West,Smartphone,Electronics,5774.91,2022-02
+2022-02-11,East,Microwave,Home Goods,7321.69,2022-02
+2022-02-12,West,Tablet,Electronics,2749.25,2022-02
+2022-02-16,South,Tablet,Electronics,1581.05,2022-02
+2022-02-16,East,Action Figure,Toys,7787.24,2022-02
+2022-02-16,West,Smartphone,Electronics,7038.59,2022-02
+2022-02-16,North,Smartphone,Electronics,3853.36,2022-02
+2022-02-17,South,Board Game,Toys,7174.95,2022-02
+2022-02-20,East,Microwave,Home Goods,7233.6,2022-02
+2022-02-20,West,Jeans,Apparel,1797.2,2022-02
+2022-02-20,South,Shirt,Apparel,4431.07,2022-02
+2022-02-22,West,Shirt,Apparel,3178.92,2022-02
+2022-02-23,West,Toaster,Home Goods,8370.54,2022-02
+2022-02-24,North,Smartphone,Electronics,9868.62,2022-02
+2022-02-24,North,Jacket,Apparel,6210.47,2022-02
+2022-02-25,North,Microwave,Home Goods,2926.54,2022-02
+2022-02-27,West,Smartphone,Electronics,8091.17,2022-02
+2022-02-28,East,Puzzle,Toys,7441.87,2022-02
+2022-03-02,West,Jeans,Apparel,3342.77,2022-03
+2022-03-03,West,Laptop,Electronics,7874.16,2022-03
+2022-03-04,West,Shirt,Apparel,4251.96,2022-03
+2022-03-04,North,Jacket,Apparel,9413.66,2022-03
+2022-03-06,North,Jacket,Apparel,8788.71,2022-03
+2022-03-08,North,Smartphone,Electronics,7095.68,2022-03
+2022-03-10,West,Microwave,Home Goods,4665.55,2022-03
+2022-03-10,North,Smartphone,Electronics,1272.31,2022-03
+2022-03-16,South,Jeans,Apparel,9395.06,2022-03
+2022-03-16,West,Smartphone,Electronics,8855.33,2022-03
+2022-03-16,West,Puzzle,Toys,2538.23,2022-03
+2022-03-16,North,Toaster,Home Goods,7765.6,2022-03
+2022-03-17,East,Laptop,Electronics,1120.9,2022-03
+2022-03-19,East,Action Figure,Toys,5190.59,2022-03
+2022-03-19,North,Blender,Home Goods,4895.01,2022-03
+2022-03-21,South,Action Figure,Toys,9963.0,2022-03
+2022-03-22,West,Microwave,Home Goods,5459.56,2022-03
+2022-03-23,North,Tablet,Electronics,5639.83,2022-03
+2022-03-24,South,Action Figure,Toys,7886.57,2022-03
+2022-03-27,North,Shirt,Apparel,9431.2,2022-03
+2022-03-28,North,Board Game,Toys,7096.09,2022-03
+2022-03-29,South,Toaster,Home Goods,9369.58,2022-03
+2022-03-30,West,Tablet,Electronics,7505.25,2022-03
+2022-03-31,West,Microwave,Home Goods,8521.73,2022-03
+2022-03-31,West,Board Game,Toys,5538.49,2022-03
+2022-03-31,West,Board Game,Toys,6011.25,2022-03
+2022-04-01,North,Jeans,Apparel,7745.78,2022-04
+2022-04-02,East,Tablet,Electronics,6512.36,2022-04
+2022-04-03,North,Laptop,Electronics,7560.59,2022-04
+2022-04-04,East,Puzzle,Toys,1276.86,2022-04
+2022-04-05,West,Laptop,Electronics,4745.92,2022-04
+2022-04-05,South,Jacket,Apparel,9863.84,2022-04
+2022-04-05,North,Microwave,Home Goods,5578.46,2022-04
+2022-04-06,North,Tablet,Electronics,5354.3,2022-04
+2022-04-06,West,Board Game,Toys,7180.35,2022-04
+2022-04-06,East,Toaster,Home Goods,2133.47,2022-04
+2022-04-08,East,Toaster,Home Goods,4645.97,2022-04
+2022-04-09,North,Jacket,Apparel,5676.91,2022-04
+2022-04-09,East,Action Figure,Toys,6663.77,2022-04
+2022-04-09,North,Tablet,Electronics,8099.98,2022-04
+2022-04-13,North,Puzzle,Toys,4672.25,2022-04
+2022-04-14,East,Microwave,Home Goods,8927.94,2022-04
+2022-04-14,North,Action Figure,Toys,5564.7,2022-04
+2022-04-15,North,Tablet,Electronics,2090.88,2022-04
+2022-04-17,North,Tablet,Electronics,8867.64,2022-04
+2022-04-19,North,Shirt,Apparel,1525.02,2022-04
+2022-04-19,North,Tablet,Electronics,3757.87,2022-04
+2022-04-21,South,Tablet,Electronics,3423.17,2022-04
+2022-04-21,North,Puzzle,Toys,9299.96,2022-04
+2022-04-21,North,Puzzle,Toys,548.66,2022-04
+2022-04-23,North,Blender,Home Goods,2379.48,2022-04
+2022-04-23,East,Jeans,Apparel,4494.21,2022-04
+2022-04-24,West,Puzzle,Toys,1784.14,2022-04
+2022-04-25,North,Smartphone,Electronics,295.98,2022-04
+2022-04-27,North,Microwave,Home Goods,1386.42,2022-04
+2022-04-27,South,Board Game,Toys,7056.14,2022-04
+2022-04-28,East,Jeans,Apparel,7606.85,2022-04
+2022-04-28,South,Jeans,Apparel,2239.0,2022-04
+2022-04-30,South,Blender,Home Goods,4870.49,2022-04
+2022-05-02,North,Toaster,Home Goods,9435.54,2022-05
+2022-05-03,South,Toaster,Home Goods,5513.91,2022-05
+2022-05-06,West,Blender,Home Goods,2512.92,2022-05
+2022-05-06,South,Toaster,Home Goods,524.09,2022-05
+2022-05-07,East,Tablet,Electronics,9492.57,2022-05
+2022-05-08,South,Smartphone,Electronics,2124.16,2022-05
+2022-05-08,West,Board Game,Toys,2866.22,2022-05
+2022-05-08,West,Jeans,Apparel,3441.06,2022-05
+2022-05-10,North,Smartphone,Electronics,6367.42,2022-05
+2022-05-11,East,Tablet,Electronics,1248.62,2022-05
+2022-05-12,East,Laptop,Electronics,4420.55,2022-05
+2022-05-13,East,Puzzle,Toys,3517.78,2022-05
+2022-05-14,West,Blender,Home Goods,934.58,2022-05
+2022-05-15,North,Board Game,Toys,1899.22,2022-05
+2022-05-18,South,Shirt,Apparel,8828.46,2022-05
+2022-05-19,South,Jacket,Apparel,7507.51,2022-05
+2022-05-20,East,Jacket,Apparel,4562.69,2022-05
+2022-05-21,South,Jacket,Apparel,9745.05,2022-05
+2022-05-23,West,Smartphone,Electronics,6775.16,2022-05
+2022-05-24,East,Laptop,Electronics,2123.96,2022-05
+2022-05-24,West,Action Figure,Toys,9950.32,2022-05
+2022-05-24,West,Microwave,Home Goods,3614.91,2022-05
+2022-05-25,East,Jeans,Apparel,5754.51,2022-05
+2022-05-25,South,Puzzle,Toys,7319.42,2022-05
+2022-05-26,South,Laptop,Electronics,5044.37,2022-05
+2022-05-27,North,Smartphone,Electronics,5275.33,2022-05
+2022-05-27,South,Toaster,Home Goods,9534.9,2022-05
+2022-05-28,East,Toaster,Home Goods,5563.58,2022-05
+2022-05-30,South,Blender,Home Goods,613.82,2022-05
+2022-05-31,South,Action Figure,Toys,8310.98,2022-05
+2022-05-31,North,Tablet,Electronics,256.65,2022-05
+2022-06-01,East,Tablet,Electronics,6070.34,2022-06
+2022-06-02,South,Microwave,Home Goods,1861.09,2022-06
+2022-06-03,West,Jeans,Apparel,405.49,2022-06
+2022-06-03,West,Blender,Home Goods,7451.06,2022-06
+2022-06-04,North,Puzzle,Toys,8807.02,2022-06
+2022-06-05,West,Toaster,Home Goods,4410.4,2022-06
+2022-06-06,South,Blender,Home Goods,3158.66,2022-06
+2022-06-07,East,Action Figure,Toys,6827.54,2022-06
+2022-06-09,East,Microwave,Home Goods,1273.07,2022-06
+2022-06-10,South,Smartphone,Electronics,8956.96,2022-06
+2022-06-11,West,Jacket,Apparel,5833.84,2022-06
+2022-06-11,West,Blender,Home Goods,8310.21,2022-06
+2022-06-14,North,Board Game,Toys,3535.92,2022-06
+2022-06-15,South,Jeans,Apparel,7432.2,2022-06
+2022-06-16,West,Puzzle,Toys,128.52,2022-06
+2022-06-16,North,Shirt,Apparel,166.15,2022-06
+2022-06-19,South,Jacket,Apparel,4561.8,2022-06
+2022-06-21,West,Microwave,Home Goods,8255.3,2022-06
+2022-06-22,West,Smartphone,Electronics,8699.53,2022-06
+2022-06-22,South,Toaster,Home Goods,599.84,2022-06
+2022-06-22,North,Puzzle,Toys,5175.99,2022-06
+2022-06-26,South,Board Game,Toys,1529.44,2022-06
+2022-06-26,West,Jeans,Apparel,213.66,2022-06
+2022-06-26,East,Jeans,Apparel,6070.09,2022-06
+2022-06-30,North,Tablet,Electronics,4358.02,2022-06
+2022-07-01,East,Blender,Home Goods,5517.65,2022-07
+2022-07-03,West,Action Figure,Toys,1302.8,2022-07
+2022-07-06,South,Jacket,Apparel,3979.4,2022-07
+2022-07-07,West,Smartphone,Electronics,7388.38,2022-07
+2022-07-09,North,Puzzle,Toys,9073.57,2022-07
+2022-07-09,South,Jacket,Apparel,9994.72,2022-07
+2022-07-09,South,Board Game,Toys,6683.45,2022-07
+2022-07-10,North,Laptop,Electronics,7654.77,2022-07
+2022-07-11,West,Laptop,Electronics,930.8,2022-07
+2022-07-13,North,Board Game,Toys,3601.6,2022-07
+2022-07-13,West,Blender,Home Goods,5926.2,2022-07
+2022-07-15,West,Board Game,Toys,4083.12,2022-07
+2022-07-17,North,Jacket,Apparel,4119.52,2022-07
+2022-07-17,East,Blender,Home Goods,8986.98,2022-07
+2022-07-20,North,Jacket,Apparel,4411.53,2022-07
+2022-07-21,North,Puzzle,Toys,1039.59,2022-07
+2022-07-21,East,Blender,Home Goods,944.88,2022-07
+2022-07-22,West,Jeans,Apparel,5514.07,2022-07
+2022-07-22,North,Board Game,Toys,7632.46,2022-07
+2022-07-24,North,Action Figure,Toys,1752.62,2022-07
+2022-07-25,West,Toaster,Home Goods,9314.99,2022-07
+2022-07-26,West,Board Game,Toys,6072.59,2022-07
+2022-07-27,West,Smartphone,Electronics,7659.43,2022-07
+2022-08-02,West,Shirt,Apparel,6152.23,2022-08
+2022-08-03,West,Shirt,Apparel,840.73,2022-08
+2022-08-04,West,Board Game,Toys,5830.52,2022-08
+2022-08-05,North,Action Figure,Toys,4545.94,2022-08
+2022-08-05,South,Laptop,Electronics,7361.52,2022-08
+2022-08-05,West,Blender,Home Goods,9493.57,2022-08
+2022-08-06,North,Action Figure,Toys,3188.64,2022-08
+2022-08-06,South,Action Figure,Toys,6478.14,2022-08
+2022-08-08,West,Action Figure,Toys,3088.98,2022-08
+2022-08-12,South,Puzzle,Toys,5396.75,2022-08
+2022-08-13,East,Jacket,Apparel,5888.21,2022-08
+2022-08-14,West,Puzzle,Toys,5781.03,2022-08
+2022-08-16,West,Jeans,Apparel,1470.51,2022-08
+2022-08-16,North,Action Figure,Toys,3564.45,2022-08
+2022-08-17,East,Toaster,Home Goods,3968.48,2022-08
+2022-08-18,East,Tablet,Electronics,2827.92,2022-08
+2022-08-19,North,Blender,Home Goods,6481.45,2022-08
+2022-08-19,North,Board Game,Toys,5796.02,2022-08
+2022-08-21,South,Puzzle,Toys,9806.31,2022-08
+2022-08-21,South,Board Game,Toys,3807.36,2022-08
+2022-08-23,West,Blender,Home Goods,6988.4,2022-08
+2022-08-24,North,Action Figure,Toys,1591.02,2022-08
+2022-08-24,East,Microwave,Home Goods,3797.85,2022-08
+2022-08-25,South,Jacket,Apparel,4124.91,2022-08
+2022-08-27,North,Smartphone,Electronics,8587.36,2022-08
+2022-08-30,North,Smartphone,Electronics,7224.57,2022-08
+2022-08-31,West,Toaster,Home Goods,3927.54,2022-08
+2022-09-01,East,Jeans,Apparel,9165.16,2022-09
+2022-09-03,North,Toaster,Home Goods,8284.79,2022-09
+2022-09-04,East,Jeans,Apparel,6247.0,2022-09
+2022-09-04,East,Board Game,Toys,3511.58,2022-09
+2022-09-06,West,Jeans,Apparel,4353.13,2022-09
+2022-09-06,West,Shirt,Apparel,9519.28,2022-09
+2022-09-07,North,Jeans,Apparel,858.69,2022-09
+2022-09-10,East,Laptop,Electronics,1909.79,2022-09
+2022-09-10,South,Jacket,Apparel,8249.29,2022-09
+2022-09-11,South,Action Figure,Toys,8067.06,2022-09
+2022-09-11,North,Action Figure,Toys,7753.58,2022-09
+2022-09-13,East,Action Figure,Toys,8017.22,2022-09
+2022-09-15,West,Jacket,Apparel,4353.0,2022-09
+2022-09-16,South,Toaster,Home Goods,5334.37,2022-09
+2022-09-18,West,Blender,Home Goods,9042.65,2022-09
+2022-09-18,North,Board Game,Toys,6581.62,2022-09
+2022-09-20,East,Smartphone,Electronics,7348.01,2022-09
+2022-09-21,North,Blender,Home Goods,2787.24,2022-09
+2022-09-22,North,Shirt,Apparel,5523.07,2022-09
+2022-09-25,North,Blender,Home Goods,7884.94,2022-09
+2022-09-26,West,Action Figure,Toys,2763.29,2022-09
+2022-09-27,South,Laptop,Electronics,6701.98,2022-09
+2022-09-27,South,Blender,Home Goods,6337.39,2022-09
+2022-10-04,North,Microwave,Home Goods,1477.25,2022-10
+2022-10-04,South,Action Figure,Toys,5525.52,2022-10
+2022-10-06,North,Laptop,Electronics,7870.13,2022-10
+2022-10-07,East,Tablet,Electronics,8653.22,2022-10
+2022-10-07,East,Action Figure,Toys,3330.75,2022-10
+2022-10-08,South,Jeans,Apparel,6821.89,2022-10
+2022-10-11,South,Toaster,Home Goods,8487.99,2022-10
+2022-10-12,North,Jeans,Apparel,186.19,2022-10
+2022-10-12,West,Microwave,Home Goods,6803.81,2022-10
+2022-10-12,North,Microwave,Home Goods,6228.02,2022-10
+2022-10-13,North,Jacket,Apparel,2152.0,2022-10
+2022-10-16,South,Action Figure,Toys,1402.03,2022-10
+2022-10-16,West,Puzzle,Toys,4206.67,2022-10
+2022-10-21,South,Microwave,Home Goods,5652.66,2022-10
+2022-10-23,South,Puzzle,Toys,7097.69,2022-10
+2022-10-23,South,Blender,Home Goods,1088.68,2022-10
+2022-10-29,North,Board Game,Toys,1523.76,2022-10
+2022-10-29,South,Blender,Home Goods,9257.97,2022-10
+2022-10-30,West,Action Figure,Toys,2114.02,2022-10
+2022-11-01,West,Smartphone,Electronics,7344.07,2022-11
+2022-11-09,West,Jacket,Apparel,7827.5,2022-11
+2022-11-09,South,Tablet,Electronics,5981.42,2022-11
+2022-11-10,North,Shirt,Apparel,1992.08,2022-11
+2022-11-11,South,Shirt,Apparel,581.71,2022-11
+2022-11-12,South,Blender,Home Goods,5565.49,2022-11
+2022-11-14,West,Jacket,Apparel,7503.6,2022-11
+2022-11-14,South,Tablet,Electronics,7277.31,2022-11
+2022-11-16,South,Laptop,Electronics,6403.94,2022-11
+2022-11-17,East,Board Game,Toys,5512.34,2022-11
+2022-11-17,East,Smartphone,Electronics,8234.31,2022-11
+2022-11-20,East,Action Figure,Toys,3777.71,2022-11
+2022-11-22,South,Shirt,Apparel,7271.01,2022-11
+2022-11-23,South,Tablet,Electronics,646.7,2022-11
+2022-11-24,East,Jacket,Apparel,131.09,2022-11
+2022-11-25,South,Smartphone,Electronics,4669.08,2022-11
+2022-11-26,East,Tablet,Electronics,7675.09,2022-11
+2022-11-27,South,Action Figure,Toys,3835.41,2022-11
+2022-11-30,North,Jeans,Apparel,2250.59,2022-11
+2022-12-02,East,Laptop,Electronics,5453.27,2022-12
+2022-12-03,West,Blender,Home Goods,8827.48,2022-12
+2022-12-04,North,Shirt,Apparel,2612.83,2022-12
+2022-12-04,North,Jacket,Apparel,2494.7,2022-12
+2022-12-04,East,Shirt,Apparel,1843.35,2022-12
+2022-12-05,East,Action Figure,Toys,119.98,2022-12
+2022-12-07,North,Toaster,Home Goods,3933.65,2022-12
+2022-12-08,East,Jacket,Apparel,7915.15,2022-12
+2022-12-10,South,Tablet,Electronics,5689.83,2022-12
+2022-12-12,East,Laptop,Electronics,1189.63,2022-12
+2022-12-12,North,Board Game,Toys,1231.43,2022-12
+2022-12-12,East,Laptop,Electronics,7013.28,2022-12
+2022-12-13,South,Shirt,Apparel,9764.25,2022-12
+2022-12-14,East,Tablet,Electronics,2225.21,2022-12
+2022-12-16,East,Shirt,Apparel,7609.17,2022-12
+2022-12-16,West,Laptop,Electronics,4140.38,2022-12
+2022-12-22,North,Blender,Home Goods,519.19,2022-12
+2022-12-23,East,Action Figure,Toys,259.01,2022-12
+2022-12-24,North,Puzzle,Toys,256.55,2022-12
+2022-12-26,North,Blender,Home Goods,7563.26,2022-12
+2022-12-29,South,Toaster,Home Goods,7456.51,2022-12
+2022-12-29,East,Puzzle,Toys,6353.27,2022-12
+2022-12-31,West,Toaster,Home Goods,232.34,2022-12
+2023-01-05,South,Jeans,Apparel,5224.2,2023-01
+2023-01-06,North,Smartphone,Electronics,8354.54,2023-01
+2023-01-08,North,Action Figure,Toys,3613.12,2023-01
+2023-01-09,East,Blender,Home Goods,6415.75,2023-01
+2023-01-11,North,Shirt,Apparel,4693.5,2023-01
+2023-01-14,South,Board Game,Toys,8585.58,2023-01
+2023-01-15,East,Blender,Home Goods,3369.4,2023-01
+2023-01-15,West,Board Game,Toys,9529.42,2023-01
+2023-01-20,East,Toaster,Home Goods,4135.57,2023-01
+2023-01-20,West,Puzzle,Toys,3607.25,2023-01
+2023-01-21,North,Jacket,Apparel,8458.06,2023-01
+2023-01-21,East,Jacket,Apparel,6937.73,2023-01
+2023-01-22,South,Smartphone,Electronics,7420.14,2023-01
+2023-01-23,South,Board Game,Toys,8603.67,2023-01
+2023-01-24,East,Smartphone,Electronics,2787.84,2023-01
+2023-01-25,East,Action Figure,Toys,4332.21,2023-01
+2023-01-26,East,Blender,Home Goods,894.2,2023-01
+2023-01-27,South,Microwave,Home Goods,2745.8,2023-01
+2023-01-28,North,Laptop,Electronics,9380.05,2023-01
+2023-01-31,North,Board Game,Toys,4556.15,2023-01
+2023-01-31,West,Tablet,Electronics,6094.28,2023-01
+2023-01-31,South,Shirt,Apparel,5187.12,2023-01
+2023-01-31,East,Laptop,Electronics,638.47,2023-01
+2023-02-01,North,Tablet,Electronics,3320.01,2023-02
+2023-02-01,East,Microwave,Home Goods,6287.79,2023-02
+2023-02-02,East,Tablet,Electronics,9262.67,2023-02
+2023-02-02,East,Action Figure,Toys,9023.69,2023-02
+2023-02-02,South,Blender,Home Goods,1608.05,2023-02
+2023-02-04,South,Laptop,Electronics,5945.27,2023-02
+2023-02-05,South,Jeans,Apparel,9901.86,2023-02
+2023-02-05,South,Tablet,Electronics,1885.05,2023-02
+2023-02-05,West,Tablet,Electronics,9045.23,2023-02
+2023-02-06,East,Tablet,Electronics,6853.72,2023-02
+2023-02-06,South,Blender,Home Goods,8145.86,2023-02
+2023-02-07,East,Board Game,Toys,4126.07,2023-02
+2023-02-08,East,Jacket,Apparel,8566.55,2023-02
+2023-02-09,East,Tablet,Electronics,4748.3,2023-02
+2023-02-11,North,Puzzle,Toys,5749.43,2023-02
+2023-02-12,West,Action Figure,Toys,8265.4,2023-02
+2023-02-17,North,Toaster,Home Goods,4175.39,2023-02
+2023-02-22,West,Jeans,Apparel,5065.6,2023-02
+2023-02-22,North,Microwave,Home Goods,1950.45,2023-02
+2023-02-23,North,Action Figure,Toys,2276.07,2023-02
+2023-02-24,North,Action Figure,Toys,7090.97,2023-02
+2023-02-24,West,Board Game,Toys,9111.11,2023-02
+2023-02-26,South,Microwave,Home Goods,9040.63,2023-02
+2023-03-01,South,Jacket,Apparel,6356.69,2023-03
+2023-03-05,North,Laptop,Electronics,1640.16,2023-03
+2023-03-08,East,Microwave,Home Goods,5116.06,2023-03
+2023-03-11,North,Board Game,Toys,3513.34,2023-03
+2023-03-11,East,Blender,Home Goods,3909.56,2023-03
+2023-03-11,South,Puzzle,Toys,4440.72,2023-03
+2023-03-14,East,Laptop,Electronics,9925.18,2023-03
+2023-03-14,West,Laptop,Electronics,8298.36,2023-03
+2023-03-18,East,Shirt,Apparel,8448.45,2023-03
+2023-03-18,East,Puzzle,Toys,6931.0,2023-03
+2023-03-18,South,Jeans,Apparel,5631.78,2023-03
+2023-03-19,West,Shirt,Apparel,3185.73,2023-03
+2023-03-20,North,Smartphone,Electronics,8970.8,2023-03
+2023-03-21,North,Microwave,Home Goods,9773.33,2023-03
+2023-03-21,East,Blender,Home Goods,2209.54,2023-03
+2023-03-23,West,Jacket,Apparel,4944.83,2023-03
+2023-03-25,West,Smartphone,Electronics,8077.86,2023-03
+2023-03-26,South,Puzzle,Toys,8665.41,2023-03
+2023-03-28,South,Microwave,Home Goods,1988.19,2023-03
+2023-03-29,East,Shirt,Apparel,3169.0,2023-03
+2023-03-29,South,Microwave,Home Goods,9746.29,2023-03
+2023-03-29,West,Blender,Home Goods,4409.71,2023-03
+2023-03-31,North,Action Figure,Toys,9791.68,2023-03
+2023-04-01,East,Laptop,Electronics,7841.95,2023-04
+2023-04-01,East,Board Game,Toys,9402.55,2023-04
+2023-04-02,South,Tablet,Electronics,2546.6,2023-04
+2023-04-02,East,Microwave,Home Goods,9431.06,2023-04
+2023-04-05,East,Jeans,Apparel,4867.34,2023-04
+2023-04-05,East,Puzzle,Toys,2616.89,2023-04
+2023-04-06,East,Smartphone,Electronics,5184.75,2023-04
+2023-04-09,East,Toaster,Home Goods,6625.23,2023-04
+2023-04-12,North,Smartphone,Electronics,4281.61,2023-04
+2023-04-13,South,Smartphone,Electronics,4388.31,2023-04
+2023-04-14,North,Laptop,Electronics,9918.55,2023-04
+2023-04-15,North,Microwave,Home Goods,998.14,2023-04
+2023-04-16,East,Jeans,Apparel,7258.97,2023-04
+2023-04-16,North,Jeans,Apparel,4219.84,2023-04
+2023-04-16,West,Jeans,Apparel,6574.54,2023-04
+2023-04-18,North,Smartphone,Electronics,240.48,2023-04
+2023-04-19,South,Blender,Home Goods,4876.75,2023-04
+2023-04-19,West,Smartphone,Electronics,8223.93,2023-04
+2023-04-20,West,Jeans,Apparel,6793.47,2023-04
+2023-04-20,North,Jeans,Apparel,6008.09,2023-04
+2023-04-21,East,Microwave,Home Goods,2882.28,2023-04
+2023-04-21,North,Tablet,Electronics,5465.7,2023-04
+2023-04-21,East,Action Figure,Toys,4220.56,2023-04
+2023-04-22,North,Board Game,Toys,2326.41,2023-04
+2023-04-23,East,Jacket,Apparel,269.78,2023-04
+2023-04-30,South,Microwave,Home Goods,4559.74,2023-04
+2023-04-30,East,Laptop,Electronics,6544.48,2023-04
+2023-05-03,West,Tablet,Electronics,9253.15,2023-05
+2023-05-03,East,Jeans,Apparel,1883.94,2023-05
+2023-05-04,East,Jeans,Apparel,2269.26,2023-05
+2023-05-05,South,Tablet,Electronics,4654.02,2023-05
+2023-05-06,South,Laptop,Electronics,3701.72,2023-05
+2023-05-07,South,Shirt,Apparel,3795.27,2023-05
+2023-05-08,East,Laptop,Electronics,9070.05,2023-05
+2023-05-09,West,Puzzle,Toys,9041.59,2023-05
+2023-05-12,West,Shirt,Apparel,8412.63,2023-05
+2023-05-12,North,Tablet,Electronics,3157.46,2023-05
+2023-05-14,West,Jacket,Apparel,8182.47,2023-05
+2023-05-15,South,Toaster,Home Goods,1823.41,2023-05
+2023-05-17,West,Shirt,Apparel,3094.54,2023-05
+2023-05-17,North,Shirt,Apparel,2904.72,2023-05
+2023-05-18,South,Toaster,Home Goods,2982.33,2023-05
+2023-05-18,South,Puzzle,Toys,6454.41,2023-05
+2023-05-18,South,Tablet,Electronics,3249.23,2023-05
+2023-05-19,West,Blender,Home Goods,4208.22,2023-05
+2023-05-20,North,Shirt,Apparel,5030.6,2023-05
+2023-05-24,North,Laptop,Electronics,7564.83,2023-05
+2023-05-25,North,Toaster,Home Goods,555.96,2023-05
+2023-05-26,East,Tablet,Electronics,5943.3,2023-05
+2023-05-26,West,Tablet,Electronics,1258.95,2023-05
+2023-05-26,North,Blender,Home Goods,2762.78,2023-05
+2023-05-27,West,Smartphone,Electronics,5367.01,2023-05
+2023-05-28,South,Board Game,Toys,4210.89,2023-05
+2023-05-28,North,Microwave,Home Goods,9726.96,2023-05
+2023-05-29,North,Action Figure,Toys,6901.69,2023-05
+2023-05-31,West,Shirt,Apparel,5060.77,2023-05
+2023-05-31,South,Laptop,Electronics,3567.01,2023-05
+2023-06-01,West,Jeans,Apparel,786.35,2023-06
+2023-06-02,North,Jacket,Apparel,2179.29,2023-06
+2023-06-02,South,Smartphone,Electronics,7219.68,2023-06
+2023-06-05,South,Blender,Home Goods,512.4,2023-06
+2023-06-05,East,Smartphone,Electronics,8557.18,2023-06
+2023-06-06,West,Jeans,Apparel,1331.39,2023-06
+2023-06-08,South,Shirt,Apparel,5171.62,2023-06
+2023-06-09,West,Toaster,Home Goods,5205.03,2023-06
+2023-06-09,West,Tablet,Electronics,7283.71,2023-06
+2023-06-10,South,Shirt,Apparel,6512.96,2023-06
+2023-06-10,North,Action Figure,Toys,5154.56,2023-06
+2023-06-10,South,Shirt,Apparel,1736.49,2023-06
+2023-06-16,East,Shirt,Apparel,1423.14,2023-06
+2023-06-18,North,Microwave,Home Goods,5007.47,2023-06
+2023-06-21,West,Puzzle,Toys,793.03,2023-06
+2023-06-21,South,Shirt,Apparel,6201.51,2023-06
+2023-06-22,North,Shirt,Apparel,7761.67,2023-06
+2023-06-24,South,Action Figure,Toys,3784.78,2023-06
+2023-06-25,West,Laptop,Electronics,7791.59,2023-06
+2023-06-26,North,Tablet,Electronics,7915.38,2023-06
+2023-06-27,North,Jacket,Apparel,6658.59,2023-06
+2023-06-30,South,Jeans,Apparel,6821.09,2023-06
+2023-06-30,West,Laptop,Electronics,2197.75,2023-06
+2023-07-01,West,Microwave,Home Goods,2364.07,2023-07
+2023-07-02,North,Action Figure,Toys,1670.92,2023-07
+2023-07-04,North,Puzzle,Toys,1413.18,2023-07
+2023-07-04,East,Blender,Home Goods,9497.09,2023-07
+2023-07-05,West,Toaster,Home Goods,9075.06,2023-07
+2023-07-05,South,Blender,Home Goods,9201.94,2023-07
+2023-07-06,West,Microwave,Home Goods,4958.57,2023-07
+2023-07-08,East,Microwave,Home Goods,3190.74,2023-07
+2023-07-11,West,Microwave,Home Goods,8487.22,2023-07
+2023-07-13,East,Puzzle,Toys,9589.13,2023-07
+2023-07-14,South,Blender,Home Goods,1674.35,2023-07
+2023-07-15,East,Laptop,Electronics,4802.01,2023-07
+2023-07-17,East,Blender,Home Goods,6258.19,2023-07
+2023-07-17,North,Microwave,Home Goods,8671.62,2023-07
+2023-07-18,North,Action Figure,Toys,9903.07,2023-07
+2023-07-18,East,Action Figure,Toys,6931.96,2023-07
+2023-07-19,North,Blender,Home Goods,8710.66,2023-07
+2023-07-20,West,Action Figure,Toys,9748.46,2023-07
+2023-07-20,South,Shirt,Apparel,3027.38,2023-07
+2023-07-21,East,Action Figure,Toys,5886.55,2023-07
+2023-07-23,North,Board Game,Toys,5541.1,2023-07
+2023-07-24,East,Puzzle,Toys,3169.84,2023-07
+2023-07-24,South,Puzzle,Toys,5978.64,2023-07
+2023-07-28,South,Tablet,Electronics,3923.5,2023-07
+2023-07-28,North,Tablet,Electronics,7388.67,2023-07
+2023-07-29,North,Smartphone,Electronics,8839.07,2023-07
+2023-07-29,West,Blender,Home Goods,8033.35,2023-07
+2023-07-29,North,Toaster,Home Goods,2384.87,2023-07
+2023-08-01,East,Jeans,Apparel,7965.41,2023-08
+2023-08-01,West,Smartphone,Electronics,6235.37,2023-08
+2023-08-02,West,Blender,Home Goods,4473.29,2023-08
+2023-08-02,South,Action Figure,Toys,235.62,2023-08
+2023-08-04,South,Puzzle,Toys,1308.1,2023-08
+2023-08-10,West,Smartphone,Electronics,3832.16,2023-08
+2023-08-11,South,Jeans,Apparel,5578.45,2023-08
+2023-08-11,East,Jacket,Apparel,2713.64,2023-08
+2023-08-13,West,Board Game,Toys,8283.52,2023-08
+2023-08-16,East,Jeans,Apparel,4603.7,2023-08
+2023-08-16,North,Laptop,Electronics,4087.48,2023-08
+2023-08-18,West,Puzzle,Toys,3795.09,2023-08
+2023-08-19,West,Toaster,Home Goods,6050.92,2023-08
+2023-08-21,North,Microwave,Home Goods,3966.88,2023-08
+2023-08-24,West,Jeans,Apparel,1941.63,2023-08
+2023-08-24,West,Action Figure,Toys,6701.04,2023-08
+2023-08-27,West,Action Figure,Toys,6885.41,2023-08
+2023-08-27,South,Blender,Home Goods,9456.63,2023-08
+2023-08-28,North,Puzzle,Toys,6317.13,2023-08
+2023-08-30,South,Action Figure,Toys,9047.2,2023-08
+2023-09-01,West,Puzzle,Toys,5319.6,2023-09
+2023-09-02,West,Shirt,Apparel,7877.87,2023-09
+2023-09-05,West,Puzzle,Toys,5514.94,2023-09
+2023-09-05,East,Tablet,Electronics,8198.46,2023-09
+2023-09-05,South,Jeans,Apparel,1044.18,2023-09
+2023-09-08,South,Board Game,Toys,9675.91,2023-09
+2023-09-09,South,Puzzle,Toys,3967.75,2023-09
+2023-09-15,North,Tablet,Electronics,8330.54,2023-09
+2023-09-16,South,Shirt,Apparel,5258.62,2023-09
+2023-09-16,West,Blender,Home Goods,4012.54,2023-09
+2023-09-16,South,Toaster,Home Goods,868.64,2023-09
+2023-09-17,East,Jacket,Apparel,4704.05,2023-09
+2023-09-18,North,Puzzle,Toys,6396.82,2023-09
+2023-09-19,South,Board Game,Toys,4486.29,2023-09
+2023-09-20,North,Toaster,Home Goods,7865.77,2023-09
+2023-09-20,West,Toaster,Home Goods,6463.91,2023-09
+2023-09-24,East,Microwave,Home Goods,9330.0,2023-09
+2023-09-25,South,Tablet,Electronics,1722.42,2023-09
+2023-09-26,North,Microwave,Home Goods,1803.68,2023-09
+2023-09-26,South,Laptop,Electronics,776.51,2023-09
+2023-09-26,West,Shirt,Apparel,5512.18,2023-09
+2023-09-26,North,Board Game,Toys,5304.99,2023-09
+2023-09-28,North,Microwave,Home Goods,2761.58,2023-09
+2023-10-01,East,Board Game,Toys,1361.13,2023-10
+2023-10-02,South,Board Game,Toys,9552.99,2023-10
+2023-10-02,East,Blender,Home Goods,6866.19,2023-10
+2023-10-03,East,Toaster,Home Goods,228.99,2023-10
+2023-10-04,East,Jacket,Apparel,4214.86,2023-10
+2023-10-05,West,Smartphone,Electronics,8314.65,2023-10
+2023-10-07,East,Smartphone,Electronics,4447.05,2023-10
+2023-10-08,North,Puzzle,Toys,2834.75,2023-10
+2023-10-08,North,Blender,Home Goods,5462.3,2023-10
+2023-10-09,South,Shirt,Apparel,1198.68,2023-10
+2023-10-10,East,Jeans,Apparel,4036.71,2023-10
+2023-10-11,North,Shirt,Apparel,3439.67,2023-10
+2023-10-15,West,Jacket,Apparel,6312.12,2023-10
+2023-10-16,East,Jeans,Apparel,707.18,2023-10
+2023-10-16,West,Smartphone,Electronics,5379.19,2023-10
+2023-10-18,South,Smartphone,Electronics,2119.84,2023-10
+2023-10-18,East,Laptop,Electronics,304.65,2023-10
+2023-10-19,North,Blender,Home Goods,6321.5,2023-10
+2023-10-20,East,Board Game,Toys,4634.42,2023-10
+2023-10-21,North,Jeans,Apparel,7542.54,2023-10
+2023-10-22,East,Toaster,Home Goods,1178.04,2023-10
+2023-10-23,South,Shirt,Apparel,877.72,2023-10
+2023-10-24,East,Laptop,Electronics,4318.1,2023-10
+2023-10-24,North,Microwave,Home Goods,1366.58,2023-10
+2023-10-25,North,Laptop,Electronics,3876.27,2023-10
+2023-10-26,West,Jeans,Apparel,700.23,2023-10
+2023-10-26,North,Shirt,Apparel,2085.47,2023-10
+2023-10-27,East,Action Figure,Toys,4711.67,2023-10
+2023-10-28,East,Shirt,Apparel,4156.42,2023-10
+2023-10-28,West,Laptop,Electronics,3540.32,2023-10
+2023-10-28,West,Jeans,Apparel,5808.48,2023-10
+2023-10-29,East,Puzzle,Toys,4177.46,2023-10
+2023-10-30,South,Puzzle,Toys,9120.57,2023-10
+2023-11-01,South,Tablet,Electronics,1232.87,2023-11
+2023-11-03,South,Blender,Home Goods,8190.8,2023-11
+2023-11-03,South,Jacket,Apparel,2116.3,2023-11
+2023-11-05,East,Puzzle,Toys,8739.09,2023-11
+2023-11-07,South,Jeans,Apparel,2231.91,2023-11
+2023-11-07,East,Jeans,Apparel,6094.5,2023-11
+2023-11-08,South,Microwave,Home Goods,1207.62,2023-11
+2023-11-13,West,Board Game,Toys,6996.61,2023-11
+2023-11-13,East,Jacket,Apparel,8971.14,2023-11
+2023-11-13,West,Board Game,Toys,6442.29,2023-11
+2023-11-14,South,Tablet,Electronics,4196.89,2023-11
+2023-11-15,North,Smartphone,Electronics,5434.25,2023-11
+2023-11-15,East,Jacket,Apparel,5528.98,2023-11
+2023-11-16,North,Board Game,Toys,8282.23,2023-11
+2023-11-16,North,Jacket,Apparel,9317.0,2023-11
+2023-11-16,East,Action Figure,Toys,8627.06,2023-11
+2023-11-17,North,Action Figure,Toys,424.82,2023-11
+2023-11-18,North,Toaster,Home Goods,5035.85,2023-11
+2023-11-19,East,Microwave,Home Goods,5175.93,2023-11
+2023-11-20,East,Toaster,Home Goods,3129.91,2023-11
+2023-11-20,North,Jeans,Apparel,6028.57,2023-11
+2023-11-21,South,Toaster,Home Goods,7172.67,2023-11
+2023-11-21,East,Toaster,Home Goods,4684.84,2023-11
+2023-11-22,East,Tablet,Electronics,8805.48,2023-11
+2023-11-23,East,Board Game,Toys,1126.42,2023-11
+2023-11-28,South,Action Figure,Toys,1507.49,2023-11
+2023-11-29,East,Blender,Home Goods,5988.55,2023-11
+2023-11-30,East,Board Game,Toys,253.53,2023-11
+2023-11-30,North,Smartphone,Electronics,5023.39,2023-11
+2023-11-30,East,Laptop,Electronics,9418.6,2023-11
+2023-12-01,North,Microwave,Home Goods,8473.91,2023-12
+2023-12-01,North,Smartphone,Electronics,6594.94,2023-12
+2023-12-01,North,Action Figure,Toys,4806.53,2023-12
+2023-12-04,North,Shirt,Apparel,616.77,2023-12
+2023-12-05,South,Action Figure,Toys,8054.83,2023-12
+2023-12-08,West,Jacket,Apparel,7015.45,2023-12
+2023-12-10,North,Toaster,Home Goods,3402.71,2023-12
+2023-12-10,West,Jeans,Apparel,7158.3,2023-12
+2023-12-10,South,Laptop,Electronics,1258.42,2023-12
+2023-12-11,South,Puzzle,Toys,6943.0,2023-12
+2023-12-11,West,Jeans,Apparel,9479.21,2023-12
+2023-12-13,South,Puzzle,Toys,8345.04,2023-12
+2023-12-15,West,Blender,Home Goods,9893.26,2023-12
+2023-12-15,West,Microwave,Home Goods,5212.6,2023-12
+2023-12-15,West,Tablet,Electronics,6289.53,2023-12
+2023-12-15,North,Toaster,Home Goods,9705.33,2023-12
+2023-12-16,West,Jeans,Apparel,6037.74,2023-12
+2023-12-18,South,Microwave,Home Goods,4517.39,2023-12
+2023-12-19,North,Smartphone,Electronics,5599.4,2023-12
+2023-12-20,South,Board Game,Toys,8754.29,2023-12
+2023-12-21,South,Board Game,Toys,6911.64,2023-12
+2023-12-22,East,Toaster,Home Goods,8561.56,2023-12
+2023-12-24,South,Shirt,Apparel,9854.51,2023-12
+2023-12-25,South,Laptop,Electronics,5623.48,2023-12
+2023-12-26,North,Shirt,Apparel,7859.35,2023-12
+2023-12-27,North,Smartphone,Electronics,5362.62,2023-12
+2023-12-27,South,Microwave,Home Goods,8804.63,2023-12
+2023-12-28,West,Smartphone,Electronics,2115.43,2023-12
+2023-12-28,South,Smartphone,Electronics,3197.35,2023-12
+2023-12-30,West,Microwave,Home Goods,9356.44,2023-12
+2023-12-30,West,Jacket,Apparel,9904.58,2023-12
+2023-12-31,East,Blender,Home Goods,4734.73,2023-12
+2023-12-31,North,Smartphone,Electronics,9626.87,2023-12
+2024-01-02,South,Toaster,Home Goods,3397.05,2024-01
+2024-01-02,East,Smartphone,Electronics,2608.24,2024-01
+2024-01-03,South,Toaster,Home Goods,4360.71,2024-01
+2024-01-05,South,Action Figure,Toys,2072.53,2024-01
+2024-01-05,South,Board Game,Toys,1979.17,2024-01
+2024-01-06,North,Toaster,Home Goods,9124.06,2024-01
+2024-01-06,East,Jacket,Apparel,1403.37,2024-01
+2024-01-08,West,Smartphone,Electronics,231.19,2024-01
+2024-01-09,West,Action Figure,Toys,3401.28,2024-01
+2024-01-09,East,Jacket,Apparel,5501.29,2024-01
+2024-01-10,East,Tablet,Electronics,4985.66,2024-01
+2024-01-11,North,Action Figure,Toys,6358.38,2024-01
+2024-01-13,North,Puzzle,Toys,5863.87,2024-01
+2024-01-16,West,Microwave,Home Goods,8017.21,2024-01
+2024-01-18,West,Tablet,Electronics,2856.55,2024-01
+2024-01-18,North,Jeans,Apparel,8439.02,2024-01
+2024-01-19,East,Jeans,Apparel,5656.81,2024-01
+2024-01-20,West,Jeans,Apparel,671.26,2024-01
+2024-01-20,North,Smartphone,Electronics,1899.06,2024-01
+2024-01-21,North,Jacket,Apparel,1011.74,2024-01
+2024-01-22,East,Jeans,Apparel,1456.29,2024-01
+2024-01-22,West,Shirt,Apparel,9877.83,2024-01
+2024-01-24,West,Toaster,Home Goods,3917.57,2024-01
+2024-01-24,South,Toaster,Home Goods,5065.0,2024-01
+2024-01-25,North,Smartphone,Electronics,4992.06,2024-01
+2024-01-29,West,Laptop,Electronics,3105.88,2024-01
+2024-01-29,North,Shirt,Apparel,3038.19,2024-01
+2024-01-29,South,Toaster,Home Goods,2151.7,2024-01
+2024-01-29,North,Board Game,Toys,7294.82,2024-01
+2024-01-31,North,Action Figure,Toys,8792.05,2024-01
+2024-01-31,East,Jacket,Apparel,7518.97,2024-01
+2024-01-31,South,Shirt,Apparel,8766.52,2024-01
+2024-02-01,North,Blender,Home Goods,6197.53,2024-02
+2024-02-02,North,Microwave,Home Goods,1339.68,2024-02
+2024-02-02,South,Blender,Home Goods,3254.23,2024-02
+2024-02-03,North,Laptop,Electronics,6401.73,2024-02
+2024-02-03,West,Smartphone,Electronics,4203.71,2024-02
+2024-02-03,West,Jeans,Apparel,6739.69,2024-02
+2024-02-03,East,Smartphone,Electronics,411.08,2024-02
+2024-02-06,East,Toaster,Home Goods,4640.12,2024-02
+2024-02-06,East,Toaster,Home Goods,8305.83,2024-02
+2024-02-06,South,Smartphone,Electronics,2150.24,2024-02
+2024-02-08,North,Puzzle,Toys,1065.39,2024-02
+2024-02-08,East,Shirt,Apparel,303.16,2024-02
+2024-02-09,North,Action Figure,Toys,518.69,2024-02
+2024-02-10,West,Jeans,Apparel,213.78,2024-02
+2024-02-10,East,Action Figure,Toys,8112.31,2024-02
+2024-02-13,South,Laptop,Electronics,4116.94,2024-02
+2024-02-14,South,Jacket,Apparel,9410.15,2024-02
+2024-02-15,North,Jeans,Apparel,455.79,2024-02
+2024-02-15,West,Jacket,Apparel,9820.87,2024-02
+2024-02-16,East,Blender,Home Goods,3774.5,2024-02
+2024-02-16,West,Toaster,Home Goods,7888.41,2024-02
+2024-02-17,North,Action Figure,Toys,1075.97,2024-02
+2024-02-18,East,Laptop,Electronics,4603.24,2024-02
+2024-02-19,North,Toaster,Home Goods,3387.78,2024-02
+2024-02-23,West,Jeans,Apparel,392.09,2024-02
+2024-02-24,East,Toaster,Home Goods,6382.93,2024-02
+2024-02-24,South,Tablet,Electronics,9834.73,2024-02
+2024-02-24,East,Blender,Home Goods,1041.03,2024-02
+2024-02-29,North,Jacket,Apparel,1338.74,2024-02
+2024-03-01,East,Puzzle,Toys,5644.91,2024-03
+2024-03-02,South,Jacket,Apparel,7122.89,2024-03
+2024-03-02,North,Tablet,Electronics,5389.48,2024-03
+2024-03-04,West,Puzzle,Toys,7752.57,2024-03
+2024-03-04,South,Blender,Home Goods,8624.35,2024-03
+2024-03-05,North,Toaster,Home Goods,5877.21,2024-03
+2024-03-05,East,Toaster,Home Goods,7872.47,2024-03
+2024-03-05,East,Action Figure,Toys,7130.34,2024-03
+2024-03-06,North,Jacket,Apparel,9818.37,2024-03
+2024-03-07,East,Board Game,Toys,4200.59,2024-03
+2024-03-08,North,Board Game,Toys,4214.48,2024-03
+2024-03-08,West,Smartphone,Electronics,446.58,2024-03
+2024-03-08,West,Puzzle,Toys,8595.39,2024-03
+2024-03-08,West,Toaster,Home Goods,4169.83,2024-03
+2024-03-10,East,Shirt,Apparel,8283.86,2024-03
+2024-03-10,East,Shirt,Apparel,2786.52,2024-03
+2024-03-11,South,Jeans,Apparel,104.38,2024-03
+2024-03-12,North,Toaster,Home Goods,7995.72,2024-03
+2024-03-12,East,Blender,Home Goods,4543.26,2024-03
+2024-03-14,South,Microwave,Home Goods,7003.03,2024-03
+2024-03-15,West,Toaster,Home Goods,2602.7,2024-03
+2024-03-15,East,Toaster,Home Goods,5724.12,2024-03
+2024-03-15,East,Puzzle,Toys,8909.85,2024-03
+2024-03-16,West,Toaster,Home Goods,7356.74,2024-03
+2024-03-16,South,Toaster,Home Goods,9308.69,2024-03
+2024-03-16,South,Blender,Home Goods,3029.83,2024-03
+2024-03-16,West,Blender,Home Goods,8494.49,2024-03
+2024-03-22,West,Jacket,Apparel,4519.23,2024-03
+2024-03-24,South,Microwave,Home Goods,6888.44,2024-03
+2024-03-24,South,Board Game,Toys,2891.0,2024-03
+2024-03-25,South,Action Figure,Toys,6793.64,2024-03
+2024-03-25,East,Action Figure,Toys,6615.02,2024-03
+2024-03-25,South,Tablet,Electronics,8650.05,2024-03
+2024-03-25,North,Jeans,Apparel,4440.01,2024-03
+2024-03-26,East,Blender,Home Goods,1622.69,2024-03
+2024-03-26,East,Smartphone,Electronics,9605.66,2024-03
+2024-03-26,East,Microwave,Home Goods,8250.76,2024-03
+2024-03-26,West,Tablet,Electronics,8414.18,2024-03
+2024-03-31,East,Tablet,Electronics,9615.48,2024-03
+2024-04-01,South,Board Game,Toys,2533.49,2024-04
+2024-04-02,North,Puzzle,Toys,380.28,2024-04
+2024-04-02,North,Tablet,Electronics,545.12,2024-04
+2024-04-02,North,Board Game,Toys,4203.25,2024-04
+2024-04-02,South,Laptop,Electronics,244.82,2024-04
+2024-04-03,West,Shirt,Apparel,7453.97,2024-04
+2024-04-03,East,Action Figure,Toys,8612.26,2024-04
+2024-04-04,South,Action Figure,Toys,9540.0,2024-04
+2024-04-05,West,Puzzle,Toys,1995.13,2024-04
+2024-04-06,North,Shirt,Apparel,5050.79,2024-04
+2024-04-07,North,Smartphone,Electronics,8121.56,2024-04
+2024-04-07,East,Microwave,Home Goods,4686.61,2024-04
+2024-04-08,West,Action Figure,Toys,2282.79,2024-04
+2024-04-10,North,Laptop,Electronics,7790.35,2024-04
+2024-04-10,East,Jeans,Apparel,3680.93,2024-04
+2024-04-10,South,Blender,Home Goods,2296.81,2024-04
+2024-04-11,West,Puzzle,Toys,4812.08,2024-04
+2024-04-12,West,Jeans,Apparel,4837.11,2024-04
+2024-04-13,South,Shirt,Apparel,2085.55,2024-04
+2024-04-15,West,Microwave,Home Goods,7482.96,2024-04
+2024-04-15,South,Smartphone,Electronics,9293.74,2024-04
+2024-04-17,South,Board Game,Toys,8950.45,2024-04
+2024-04-17,East,Puzzle,Toys,4217.84,2024-04
+2024-04-17,West,Laptop,Electronics,9337.96,2024-04
+2024-04-20,South,Laptop,Electronics,7730.73,2024-04
+2024-04-22,South,Smartphone,Electronics,6806.99,2024-04
+2024-04-23,West,Toaster,Home Goods,6223.42,2024-04
+2024-04-24,South,Microwave,Home Goods,2327.91,2024-04
+2024-04-26,West,Board Game,Toys,1935.19,2024-04
+2024-04-27,West,Toaster,Home Goods,5761.93,2024-04
+2024-04-28,North,Shirt,Apparel,8929.74,2024-04
+2024-04-28,North,Puzzle,Toys,9359.44,2024-04
+2024-04-30,West,Toaster,Home Goods,5863.61,2024-04
+2024-04-30,North,Tablet,Electronics,2090.55,2024-04
+2024-05-01,East,Jeans,Apparel,9618.98,2024-05
+2024-05-02,North,Laptop,Electronics,7861.47,2024-05
+2024-05-02,North,Action Figure,Toys,5263.83,2024-05
+2024-05-03,East,Laptop,Electronics,199.9,2024-05
+2024-05-03,West,Microwave,Home Goods,3707.11,2024-05
+2024-05-03,South,Microwave,Home Goods,8709.1,2024-05
+2024-05-04,South,Puzzle,Toys,7634.77,2024-05
+2024-05-06,South,Smartphone,Electronics,1383.05,2024-05
+2024-05-08,West,Action Figure,Toys,7247.1,2024-05
+2024-05-10,West,Smartphone,Electronics,8519.67,2024-05
+2024-05-10,South,Jacket,Apparel,8678.83,2024-05
+2024-05-13,West,Microwave,Home Goods,5273.14,2024-05
+2024-05-13,North,Puzzle,Toys,6749.26,2024-05
+2024-05-14,West,Shirt,Apparel,6419.39,2024-05
+2024-05-16,North,Jacket,Apparel,3868.83,2024-05
+2024-05-16,West,Board Game,Toys,1250.29,2024-05
+2024-05-18,South,Board Game,Toys,8861.15,2024-05
+2024-05-20,West,Shirt,Apparel,9004.61,2024-05
+2024-05-21,South,Tablet,Electronics,5089.64,2024-05
+2024-05-21,West,Shirt,Apparel,6783.89,2024-05
+2024-05-21,South,Board Game,Toys,2218.17,2024-05
+2024-05-22,East,Jacket,Apparel,8260.84,2024-05
+2024-05-22,East,Smartphone,Electronics,7831.86,2024-05
+2024-05-25,East,Blender,Home Goods,8857.37,2024-05
+2024-05-25,North,Toaster,Home Goods,9396.67,2024-05
+2024-05-26,East,Jeans,Apparel,7895.0,2024-05
+2024-05-26,South,Tablet,Electronics,5852.05,2024-05
+2024-05-26,East,Blender,Home Goods,2282.84,2024-05
+2024-05-27,West,Jacket,Apparel,8101.93,2024-05
+2024-05-28,West,Shirt,Apparel,9119.58,2024-05
+2024-05-28,North,Tablet,Electronics,9032.14,2024-05
+2024-05-30,West,Action Figure,Toys,178.85,2024-05
+2024-05-30,North,Jeans,Apparel,9673.82,2024-05
+2024-05-30,East,Puzzle,Toys,3138.35,2024-05
+2024-06-01,West,Board Game,Toys,2880.73,2024-06
+2024-06-01,North,Blender,Home Goods,2141.55,2024-06
+2024-06-02,North,Board Game,Toys,4865.2,2024-06
+2024-06-02,North,Laptop,Electronics,5470.46,2024-06
+2024-06-03,East,Toaster,Home Goods,5245.07,2024-06
+2024-06-04,West,Toaster,Home Goods,2368.8,2024-06
+2024-06-06,North,Microwave,Home Goods,4583.82,2024-06
+2024-06-09,East,Jeans,Apparel,6343.93,2024-06
+2024-06-10,East,Jacket,Apparel,691.19,2024-06
+2024-06-13,South,Puzzle,Toys,7284.69,2024-06
+2024-06-14,North,Microwave,Home Goods,4874.42,2024-06
+2024-06-15,East,Blender,Home Goods,8556.8,2024-06
+2024-06-15,South,Laptop,Electronics,1072.53,2024-06
+2024-06-16,South,Action Figure,Toys,725.09,2024-06
+2024-06-16,West,Tablet,Electronics,7331.91,2024-06
+2024-06-17,East,Puzzle,Toys,7161.04,2024-06
+2024-06-18,South,Action Figure,Toys,7350.9,2024-06
+2024-06-18,East,Jeans,Apparel,4205.88,2024-06
+2024-06-18,South,Shirt,Apparel,8727.54,2024-06
+2024-06-20,East,Laptop,Electronics,8276.59,2024-06
+2024-06-21,South,Action Figure,Toys,549.49,2024-06
+2024-06-23,South,Blender,Home Goods,5150.47,2024-06
+2024-06-27,West,Jeans,Apparel,7730.35,2024-06
+2024-06-28,West,Microwave,Home Goods,6675.6,2024-06
+2024-06-29,East,Smartphone,Electronics,7759.26,2024-06
+2024-06-30,South,Jacket,Apparel,5538.17,2024-06
+2024-07-01,West,Jacket,Apparel,5680.23,2024-07
+2024-07-02,North,Board Game,Toys,5195.37,2024-07
+2024-07-03,East,Laptop,Electronics,4761.59,2024-07
+2024-07-06,East,Action Figure,Toys,8895.79,2024-07
+2024-07-07,West,Jeans,Apparel,4844.67,2024-07
+2024-07-07,South,Laptop,Electronics,3554.01,2024-07
+2024-07-08,East,Jeans,Apparel,3622.96,2024-07
+2024-07-08,East,Laptop,Electronics,2656.49,2024-07
+2024-07-09,West,Jacket,Apparel,3590.77,2024-07
+2024-07-11,West,Toaster,Home Goods,9174.37,2024-07
+2024-07-13,North,Blender,Home Goods,2985.81,2024-07
+2024-07-13,East,Puzzle,Toys,857.15,2024-07
+2024-07-16,South,Blender,Home Goods,5490.61,2024-07
+2024-07-17,West,Shirt,Apparel,4034.74,2024-07
+2024-07-17,East,Jacket,Apparel,4643.74,2024-07
+2024-07-17,South,Toaster,Home Goods,3337.74,2024-07
+2024-07-18,North,Action Figure,Toys,3483.86,2024-07
+2024-07-22,East,Toaster,Home Goods,8911.56,2024-07
+2024-07-22,East,Tablet,Electronics,8196.78,2024-07
+2024-07-23,East,Smartphone,Electronics,1803.89,2024-07
+2024-07-24,South,Smartphone,Electronics,7562.91,2024-07
+2024-07-24,North,Toaster,Home Goods,6461.52,2024-07
+2024-07-25,West,Blender,Home Goods,758.62,2024-07
+2024-07-27,South,Toaster,Home Goods,3816.87,2024-07
+2024-07-28,North,Smartphone,Electronics,5177.68,2024-07
+2024-08-01,North,Board Game,Toys,1350.93,2024-08
+2024-08-03,South,Jeans,Apparel,6753.35,2024-08
+2024-08-04,West,Toaster,Home Goods,8992.56,2024-08
+2024-08-04,North,Action Figure,Toys,7156.5,2024-08
+2024-08-05,North,Shirt,Apparel,7427.6,2024-08
+2024-08-05,West,Shirt,Apparel,5737.9,2024-08
+2024-08-08,North,Shirt,Apparel,9390.3,2024-08
+2024-08-09,North,Board Game,Toys,5345.82,2024-08
+2024-08-09,South,Puzzle,Toys,9313.01,2024-08
+2024-08-11,East,Tablet,Electronics,7067.54,2024-08
+2024-08-12,South,Board Game,Toys,5032.54,2024-08
+2024-08-12,North,Board Game,Toys,8020.73,2024-08
+2024-08-12,North,Puzzle,Toys,6390.89,2024-08
+2024-08-13,East,Shirt,Apparel,6790.89,2024-08
+2024-08-13,South,Microwave,Home Goods,7982.78,2024-08
+2024-08-14,West,Tablet,Electronics,2344.6,2024-08
+2024-08-14,West,Toaster,Home Goods,4087.37,2024-08
+2024-08-15,North,Microwave,Home Goods,791.03,2024-08
+2024-08-15,South,Board Game,Toys,3912.69,2024-08
+2024-08-15,North,Laptop,Electronics,1137.6,2024-08
+2024-08-15,North,Microwave,Home Goods,7670.72,2024-08
+2024-08-16,West,Toaster,Home Goods,7889.02,2024-08
+2024-08-17,North,Tablet,Electronics,8785.82,2024-08
+2024-08-18,North,Puzzle,Toys,6788.24,2024-08
+2024-08-19,North,Blender,Home Goods,3022.89,2024-08
+2024-08-24,West,Shirt,Apparel,6726.16,2024-08
+2024-08-25,South,Blender,Home Goods,3624.11,2024-08
+2024-08-26,North,Jeans,Apparel,7431.59,2024-08
+2024-08-27,West,Board Game,Toys,2550.35,2024-08
+2024-08-28,East,Microwave,Home Goods,8201.86,2024-08
+2024-08-29,South,Smartphone,Electronics,863.74,2024-08
+2024-08-29,West,Tablet,Electronics,3685.54,2024-08
+2024-08-30,South,Toaster,Home Goods,8117.62,2024-08
+2024-09-02,East,Puzzle,Toys,6379.96,2024-09
+2024-09-04,South,Board Game,Toys,6807.66,2024-09
+2024-09-07,West,Laptop,Electronics,8899.99,2024-09
+2024-09-08,North,Toaster,Home Goods,6776.05,2024-09
+2024-09-09,South,Action Figure,Toys,6426.42,2024-09
+2024-09-10,East,Laptop,Electronics,5863.22,2024-09
+2024-09-10,North,Shirt,Apparel,8643.43,2024-09
+2024-09-11,West,Microwave,Home Goods,5591.41,2024-09
+2024-09-14,South,Shirt,Apparel,9756.2,2024-09
+2024-09-16,South,Jacket,Apparel,9429.6,2024-09
+2024-09-16,North,Action Figure,Toys,2394.66,2024-09
+2024-09-18,South,Board Game,Toys,7648.58,2024-09
+2024-09-19,East,Puzzle,Toys,7503.16,2024-09
+2024-09-19,South,Microwave,Home Goods,2602.85,2024-09
+2024-09-19,East,Jeans,Apparel,4069.32,2024-09
+2024-09-19,North,Blender,Home Goods,156.61,2024-09
+2024-09-22,South,Puzzle,Toys,525.77,2024-09
+2024-09-23,East,Shirt,Apparel,9247.87,2024-09
+2024-09-23,South,Microwave,Home Goods,152.93,2024-09
+2024-09-23,East,Blender,Home Goods,613.76,2024-09
+2024-09-29,West,Laptop,Electronics,6135.35,2024-09
+2024-09-29,East,Microwave,Home Goods,7781.52,2024-09
+2024-09-30,North,Board Game,Toys,3435.95,2024-09
+2024-09-30,West,Microwave,Home Goods,2121.25,2024-09
+2024-10-03,North,Jacket,Apparel,4017.51,2024-10
+2024-10-03,West,Microwave,Home Goods,3109.9,2024-10
+2024-10-04,East,Tablet,Electronics,5839.29,2024-10
+2024-10-05,South,Jacket,Apparel,699.99,2024-10
+2024-10-05,North,Shirt,Apparel,1657.53,2024-10
+2024-10-05,West,Tablet,Electronics,813.9,2024-10
+2024-10-06,North,Puzzle,Toys,3719.4,2024-10
+2024-10-08,North,Shirt,Apparel,6743.45,2024-10
+2024-10-09,East,Board Game,Toys,3219.96,2024-10
+2024-10-09,West,Jacket,Apparel,7829.25,2024-10
+2024-10-10,West,Jeans,Apparel,347.17,2024-10
+2024-10-11,South,Board Game,Toys,4636.52,2024-10
+2024-10-12,South,Jacket,Apparel,8749.86,2024-10
+2024-10-12,South,Puzzle,Toys,5633.91,2024-10
+2024-10-13,West,Tablet,Electronics,9533.68,2024-10
+2024-10-13,West,Puzzle,Toys,5483.68,2024-10
+2024-10-14,North,Tablet,Electronics,856.21,2024-10
+2024-10-16,North,Jeans,Apparel,5365.7,2024-10
+2024-10-16,North,Action Figure,Toys,372.44,2024-10
+2024-10-17,South,Shirt,Apparel,2467.67,2024-10
+2024-10-17,South,Board Game,Toys,4362.35,2024-10
+2024-10-17,East,Smartphone,Electronics,5165.19,2024-10
+2024-10-18,West,Tablet,Electronics,7397.26,2024-10
+2024-10-18,North,Puzzle,Toys,1711.87,2024-10
+2024-10-19,South,Smartphone,Electronics,1320.0,2024-10
+2024-10-21,East,Shirt,Apparel,6210.77,2024-10
+2024-10-21,South,Shirt,Apparel,8827.99,2024-10
+2024-10-22,East,Microwave,Home Goods,1344.67,2024-10
+2024-10-23,North,Tablet,Electronics,515.66,2024-10
+2024-10-25,North,Jeans,Apparel,319.2,2024-10
+2024-10-25,East,Action Figure,Toys,6100.85,2024-10
+2024-10-25,East,Laptop,Electronics,4172.26,2024-10
+2024-10-27,North,Jeans,Apparel,2158.77,2024-10
+2024-10-28,South,Laptop,Electronics,4305.24,2024-10
+2024-10-28,North,Action Figure,Toys,1644.21,2024-10
+2024-10-29,East,Jacket,Apparel,6452.16,2024-10
+2024-11-01,West,Blender,Home Goods,595.18,2024-11
+2024-11-04,North,Microwave,Home Goods,255.85,2024-11
+2024-11-04,East,Smartphone,Electronics,4786.67,2024-11
+2024-11-04,West,Board Game,Toys,9818.9,2024-11
+2024-11-05,South,Shirt,Apparel,7091.31,2024-11
+2024-11-08,East,Action Figure,Toys,9155.84,2024-11
+2024-11-08,West,Jeans,Apparel,6342.75,2024-11
+2024-11-10,North,Tablet,Electronics,9081.28,2024-11
+2024-11-11,South,Jacket,Apparel,422.92,2024-11
+2024-11-12,South,Puzzle,Toys,4146.89,2024-11
+2024-11-12,North,Board Game,Toys,9342.35,2024-11
+2024-11-14,East,Laptop,Electronics,5216.22,2024-11
+2024-11-15,South,Board Game,Toys,8628.99,2024-11
+2024-11-15,South,Jeans,Apparel,7340.03,2024-11
+2024-11-17,East,Laptop,Electronics,5319.93,2024-11
+2024-11-17,West,Jacket,Apparel,3740.56,2024-11
+2024-11-18,South,Puzzle,Toys,4590.43,2024-11
+2024-11-22,South,Smartphone,Electronics,4997.28,2024-11
+2024-11-22,East,Jeans,Apparel,7416.36,2024-11
+2024-11-25,South,Action Figure,Toys,2129.31,2024-11
+2024-11-26,East,Action Figure,Toys,4332.27,2024-11
+2024-11-26,West,Blender,Home Goods,2397.19,2024-11
+2024-11-28,West,Puzzle,Toys,2392.33,2024-11
+2024-11-28,East,Shirt,Apparel,571.65,2024-11
+2024-11-28,North,Tablet,Electronics,8506.87,2024-11
+2024-11-28,South,Blender,Home Goods,6928.81,2024-11
+2024-11-29,West,Board Game,Toys,3534.93,2024-11
+2024-11-30,West,Board Game,Toys,2740.08,2024-11
+2024-12-01,East,Board Game,Toys,1033.84,2024-12
+2024-12-01,East,Jacket,Apparel,5994.06,2024-12
+2024-12-02,South,Blender,Home Goods,8107.02,2024-12
+2024-12-05,South,Jacket,Apparel,4370.67,2024-12
+2024-12-05,North,Blender,Home Goods,7671.53,2024-12
+2024-12-06,West,Smartphone,Electronics,6684.95,2024-12
+2024-12-07,West,Shirt,Apparel,2310.31,2024-12
+2024-12-08,West,Jacket,Apparel,4020.02,2024-12
+2024-12-08,West,Laptop,Electronics,9567.57,2024-12
+2024-12-10,East,Microwave,Home Goods,9843.92,2024-12
+2024-12-10,West,Puzzle,Toys,5796.55,2024-12
+2024-12-12,East,Tablet,Electronics,9495.8,2024-12
+2024-12-12,East,Board Game,Toys,1341.03,2024-12
+2024-12-12,South,Puzzle,Toys,7388.77,2024-12
+2024-12-12,North,Laptop,Electronics,8398.83,2024-12
+2024-12-13,East,Toaster,Home Goods,1825.01,2024-12
+2024-12-13,North,Board Game,Toys,6358.94,2024-12
+2024-12-13,West,Smartphone,Electronics,7614.78,2024-12
+2024-12-15,North,Jacket,Apparel,6765.14,2024-12
+2024-12-17,South,Jeans,Apparel,7114.05,2024-12
+2024-12-17,West,Shirt,Apparel,9369.04,2024-12
+2024-12-17,East,Laptop,Electronics,9497.17,2024-12
+2024-12-18,North,Jeans,Apparel,9445.42,2024-12
+2024-12-22,South,Board Game,Toys,1764.37,2024-12
+2024-12-22,North,Jacket,Apparel,7646.86,2024-12
+2024-12-24,South,Shirt,Apparel,8353.07,2024-12
+2024-12-28,North,Action Figure,Toys,2212.59,2024-12
+2024-12-28,South,Jacket,Apparel,833.02,2024-12
+2024-12-29,South,Action Figure,Toys,6161.36,2024-12
+2024-12-31,South,Shirt,Apparel,5760.91,2024-12
+2024-12-31,East,Puzzle,Toys,2623.33,2024-12
